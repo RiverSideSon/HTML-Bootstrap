@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(110, 202, 126);
+}
+h1 {
+    font-size: 26px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:greenyellow;
+}
+p {
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.paragrafo_especial {
+    font-size: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: gray;
+}
+.menu {
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: blue;
+}
+/*Estilos de bootstrap*/
+.container {
+    border: 3px solid black;
+}
+.div1 {
+    background-color: yellow;
+}
+.div2 {
+    background-color: green;
+}
+.div3 {
+    background-color: blue;
+}
+.div4 {
+    background-color: red;
+}
